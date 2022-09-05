@@ -1,3 +1,4 @@
+// Html 파일의 태그를 이용해 js 파일에 가져오는 방법. html->js
 const loginForm = document.querySelector("#login-form");    
 const loginInput = document.querySelector("#login-form input");
 const greeting = document.querySelector("#greeting");
